@@ -1,0 +1,83 @@
+.ratio-container {
+    width: 100%;
+    padding-top: 100%;
+    background-image: radial-gradient(#141414, #242424);
+    position: relative;
+    background-size: cover;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.content-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-height: 100%;
+    height: 100%;
+    max-width: 100%;
+    width: 100%;
+}
+
+
+.message-container, .source {
+    resize: none;
+    border: none;
+    background: transparent;
+    color: #FFF;
+    padding: 0;
+}
+
+.message-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 50px;
+}
+
+.message {
+    width: 100%;
+    font-family: "Courier New";
+}
+
+.vertical-align-middle {
+    align-self: center;
+}
+.vertical-align-top {
+    align-self: flex-start;
+}
+.vertical-align-bottom {
+    align-self: flex-end;
+}
+
+.text-align-center {
+    text-align: center;
+}
+.text-align-left {
+    text-align: left;
+}
+.text-align-right {
+    text-align: right;
+}
+.source-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+}
+.source {
+    position: relative;
+    width: 100%;
+    font-style: italic;
+}
+
+.outline {
+    outline: 1px dotted rgba(255, 255, 255, .3);
+}

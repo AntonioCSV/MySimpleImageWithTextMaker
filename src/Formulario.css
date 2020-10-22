@@ -1,0 +1,8 @@
+.alignment_options {
+    display: flex;
+    justify-content: space-between;
+}
+.alignment_options label {
+    flex: 0 0 25%;
+    text-align: center;
+}
