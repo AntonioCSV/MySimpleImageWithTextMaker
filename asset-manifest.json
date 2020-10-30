@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MySimpleImageWithTextMaker/static/css/main.9c0d5296.chunk.css",
+    "main.css": "/MySimpleImageWithTextMaker/static/css/main.91a49c03.chunk.css",
     "main.js": "/MySimpleImageWithTextMaker/static/js/main.41fa62b4.chunk.js",
     "main.js.map": "/MySimpleImageWithTextMaker/static/js/main.41fa62b4.chunk.js.map",
     "runtime-main.js": "/MySimpleImageWithTextMaker/static/js/runtime-main.ca1bfe00.js",
@@ -8,9 +8,9 @@
     "static/js/2.39da2dc2.chunk.js": "/MySimpleImageWithTextMaker/static/js/2.39da2dc2.chunk.js",
     "static/js/2.39da2dc2.chunk.js.map": "/MySimpleImageWithTextMaker/static/js/2.39da2dc2.chunk.js.map",
     "index.html": "/MySimpleImageWithTextMaker/index.html",
-    "precache-manifest.d80915fbedb68cfe226994fdcb293a6b.js": "/MySimpleImageWithTextMaker/precache-manifest.d80915fbedb68cfe226994fdcb293a6b.js",
+    "precache-manifest.64e0482820bf0da52f146082c5149cf7.js": "/MySimpleImageWithTextMaker/precache-manifest.64e0482820bf0da52f146082c5149cf7.js",
     "service-worker.js": "/MySimpleImageWithTextMaker/service-worker.js",
-    "static/css/main.9c0d5296.chunk.css.map": "/MySimpleImageWithTextMaker/static/css/main.9c0d5296.chunk.css.map",
+    "static/css/main.91a49c03.chunk.css.map": "/MySimpleImageWithTextMaker/static/css/main.91a49c03.chunk.css.map",
     "static/js/2.39da2dc2.chunk.js.LICENSE.txt": "/MySimpleImageWithTextMaker/static/js/2.39da2dc2.chunk.js.LICENSE.txt",
     "static/media/image_01.jpg": "/MySimpleImageWithTextMaker/static/media/image_01.5466df9d.jpg",
     "static/media/image_03.jpg": "/MySimpleImageWithTextMaker/static/media/image_03.771de98d.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ca1bfe00.js",
     "static/js/2.39da2dc2.chunk.js",
-    "static/css/main.9c0d5296.chunk.css",
+    "static/css/main.91a49c03.chunk.css",
     "static/js/main.41fa62b4.chunk.js"
   ]
 }
